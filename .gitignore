@@ -2,5 +2,5 @@ node_modules
 .DS_Store
 docs/
 deploy-docs.sh
-scenarios/
+# scenarios/
 test/
