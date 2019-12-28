@@ -21,7 +21,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '前端项目'
+      msg: '@angel/cli 脚手架'
     }
   }
 }
@@ -31,6 +31,7 @@ export default {
 <style scoped>
 h1, h2 {
   font-weight: normal;
+  font-size: 20px;
 }
 ul {
   list-style-type: none;
@@ -42,5 +43,6 @@ li {
 }
 a {
   color: #42b983;
+  font-size: 20px;
 }
 </style>
