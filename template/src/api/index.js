@@ -1,0 +1,1 @@
+import angel from '@angel6/js/dist/h5'
