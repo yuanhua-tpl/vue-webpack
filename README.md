@@ -1,7 +1,7 @@
 ## Install
 
 ``` bash
-$ npm install -g @angel/cli
+$ npm install -g @angel6/cli
 $ angel init vue-webpack my-project
 $ cd my-project
 $ npm install
